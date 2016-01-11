@@ -1,0 +1,25 @@
+1.) * (Operator)
+    'hello' (Value)
+    -88.8 (Value)
+    - (Operator)
+    / (Operator)
+    + (Operator)
+    5 (Value)
+
+2.) spam (Variable)
+    'spam' (String)
+
+3.) Integers
+    Floating-point numbers
+    Strings
+    
+4.) An expression is made up of values and operators. Expressions evaluate using the operators down to a single value.
+
+5.) A statement assigns a value to a variable. An expression uses operators to evaluate and reduce to a single value.
+
+6.) bacon is assigned a value of 20.
+
+7.) 'spam' + 'spamspam' evalues to spamspamspam
+    'spam' * 3 evaluates to spamspamspam
+    
+8.) 100 is not a valid variable because it begins with a number.
